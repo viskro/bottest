@@ -1,0 +1,17 @@
+{
+  "name": "trollbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Viskro",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "npm": "^6.4.1",
+    "pm2": "^3.1.2"
+  }
+}
